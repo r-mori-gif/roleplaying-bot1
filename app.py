@@ -24,7 +24,7 @@ import json
 import threading
 
 # --- 定数定義 ---
-SPREADSHEET_ID = "1xeuewRd2GvnLDpDYFT5IJ5u19PUhBOuffTfCyWmQIzA"
+SPREADSHEET_ID = "1lopT8ciBnNbWTqXCzQwcMpqHHgfoFPaurhHZw8zpgl8"
 
 # --- Streamlit UI設定 ---
 st.set_page_config(page_title="ナカオさんの函館歴史探訪", layout="wide")
